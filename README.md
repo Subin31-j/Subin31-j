@@ -3,10 +3,9 @@
 Full Stack Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
--  I'm an AI student, studying in Manonmaniam Sundaranar University located in Tirunelveli.                                             
--  I’m currently learning Java Development and Integrating AI to my workflow.
--  I'm looking for help with placements in Zoho.
-
+-  I'm currently pursuing a B.Sc in AI & ML, building a strong academic foundation in emerging technologies.
+-  I'm proficient in full-stack development, with hands-on experience in the SpringBoot for developing scalable applications.
+-  I've built projects like ShortenX, Chat Application, and Kanban board.
 - Reach me:
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/savariantrosubin31) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/subinnx._/profilecard/?igsh=MW56bmU5NDFubGRnZw==)
 
@@ -14,7 +13,7 @@ Full Stack Developer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img width="48" height="48" src="https://img.icons8.com/liquid-glass/48/chatgpt.png" alt="chatgpt"/> <img width="48" height="48" src="https://img.icons8.com/color/48/deepseek.png" alt="deepseek"/> <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img width="48" height="48" src="https://img.icons8.com/liquid-glass/48/chatgpt.png" alt="chatgpt"/> <img width="48" height="48" src="https://img.icons8.com/color/48/deepseek.png" alt="deepseek"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
 
 
 ### 💻 Workspace Spec
