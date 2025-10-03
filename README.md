@@ -6,7 +6,7 @@ Full Stack Developer
 -  Here's my [Portfolio](https://antro-subin.netlify.app/)
 -  I'm currently learning DSA.
 -  I'm proficient in full-stack development.
--  I've built projects like [ShortenX](https://url-shortenx.netlify.app/), Chat Application, Gemini AI Clone and Kanban board.
+-  I've built projects like ShortenX, Chat Application, Gemini AI Clone and Kanban board.
 - Reach me:
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/savariantrosubin31) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/subinnx._/profilecard/?igsh=MW56bmU5NDFubGRnZw==)
 
